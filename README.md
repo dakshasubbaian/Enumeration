@@ -46,5 +46,5 @@ Open terminal and try execute some kali linux commands
 ![Screenshot 2024-09-25 093829](https://github.com/user-attachments/assets/9b6962e6-6209-48d2-b6b2-ffef92708c27)
 
 ## RESULT:
-The Google hacking keywords and enumeration tools were identified and executed successfully
+The Google hacking keywords and enumeration tools were identified and executed successfully.
 
